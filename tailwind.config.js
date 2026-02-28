@@ -1,10 +1,10 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    'C:/Users/user/Documents/victor-odii-website/pages/**/*.{js,ts,jsx,tsx,mdx}',
-    'C:/Users/user/Documents/victor-odii-website/components/**/*.{js,ts,jsx,tsx,mdx}',
-    'C:/Users/user/Documents/victor-odii-website/app/**/*.{js,ts,jsx,tsx,mdx}',
-    'C:/Users/user/Documents/victor-odii-website/content/**/*.mdx',
+    './pages/**/*.{js,ts,jsx,tsx,mdx}',
+    './components/**/*.{js,ts,jsx,tsx,mdx}',
+    './app/**/*.{js,ts,jsx,tsx,mdx}',
+    './content/**/*.mdx',
   ],
   theme: {
     extend: {

@@ -2,7 +2,7 @@
 const config = {
   plugins: {
     tailwindcss: {
-      config: 'C:/Users/user/Documents/victor-odii-website/tailwind.config.js',
+      config: './tailwind.config.js',
     },
   },
 };
